@@ -1,0 +1,1 @@
+# 19.Write-a-Python-program-to-calculate-mean-of-a-given-list-of-numbers.
